@@ -1,2 +1,3 @@
 # synchrodemo
+bar
 Foo
